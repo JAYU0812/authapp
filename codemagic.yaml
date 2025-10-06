@@ -18,5 +18,3 @@ workflows:
     publishing:
       scripts:
         - echo "Build finished"
-    triggers:
-      - push
